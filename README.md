@@ -1,2 +1,5 @@
-# laravel-framework
-Laravel 发现美源码
+# Madx Radicle x Laravel
+
+本库的主角便是laravel, 选择它是为了公司未来的扩展和延伸做准备，也顺便总结一些我走过的编程历程。
+
+一个好的框架是和语言本身没太大关系，相同的框架知识一样可以用其他语言去实现。
