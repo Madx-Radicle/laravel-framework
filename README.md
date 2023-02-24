@@ -21,4 +21,4 @@ laravel的优点:
 
 是的！这说明了了解底层的重要性！
 
-
+laravel 采用 `illuminate`为namespace, 有照亮编程之路的含义。
