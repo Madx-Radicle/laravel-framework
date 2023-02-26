@@ -22,3 +22,5 @@ laravel的优点:
 是的！这说明了了解底层的重要性！
 
 laravel 采用 `illuminate`为namespace, 有照亮编程之路的含义。
+
+当然还有很重要的AI工具，比如chatGPT和copilot (https://github.com/features/copilot)，它们可以解决你在laravel面对的疑难杂症，这将大大的提升生产力！
